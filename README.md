@@ -11,7 +11,7 @@ A simple, flexible Golang wrapper around the [Slack webhook API](https://api.sla
 * Debug
 * Timeout
 * Logger
-* Context(todo)
+* [Context](https://golang.org/pkg/context/)(todo)
 
 ## Installation
 ```sh
