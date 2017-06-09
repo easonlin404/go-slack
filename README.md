@@ -4,7 +4,9 @@ A simple, flexible Golang wrapper around the [Slack webhook API](https://api.sla
 
 [![Travis branch](https://img.shields.io/travis/easonlin404/go-slack/master.svg)](https://travis-ci.org/easonlin404/go-slack)
 [![Codecov branch](https://img.shields.io/codecov/c/github/easonlin404/go-slack/master.svg)](https://codecov.io/gh/easonlin404/go-slack)
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/easonlin404/gin-slack)](https://goreportcard.com/report/github.com/easonlin404/gin-slack)
+ [![GoDoc](https://godoc.org/github.com/easonlin404/gin-slack?status.svg)](https://godoc.org/github.com/easonlin404/gin-slack)
+ 
 ## Features
 * Send plain text and message with attachments
 * Send attachments with markdown syntax 
